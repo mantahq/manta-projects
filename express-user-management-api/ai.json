@@ -1,0 +1,9 @@
+{
+    "name": "Express JS User Management API",
+    "description": "Starter template for building a User Management API with Express.js and Postgres using MantaHQ SDK",
+    "entry_points": ["src/routes", "src/controllers"],
+    "features": ["CRUD", "logging", "Postgres integration"],
+    "language": "JavaScript",
+    "framework": "Express.js"
+  }
+  
