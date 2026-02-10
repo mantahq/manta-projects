@@ -3,7 +3,7 @@
 A starter template for building a **User Management API** using **Express.js** and **Postgres** with the **MantaHA JS SDK**.
 
 ## Features
-- Full CRUD operations: Create, Read, Update, Delete users
+- Full CRUD operations: Create, Read, (Update and Delete users to be added soon)
 - Built-in logging of database operations
 - Minimal setup to get started quickly
 - Ready for future integration with notifications
