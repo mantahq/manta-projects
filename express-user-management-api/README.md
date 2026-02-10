@@ -1,6 +1,6 @@
 # Express User Management API
 
-A starter template for building a **User Management API** using **Express.js** and **Postgres** with the **MantaHA JS SDK**.
+A starter template for building a **User Management API** using **Express.js** and **Postgres** with the **MantaHQ JS SDK**.
 
 Built with **MantaHQ**, this project demonstrates how to integrate the **MantaHQ SDK** with your application to perform backend operations such as database access, workflows, and API-driven logic.
 
