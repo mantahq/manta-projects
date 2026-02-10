@@ -74,8 +74,8 @@ await manta.createRecords({
 ### 1. Clone the Repository
 
 ```bash
-git clone {{REPO_URL}}
-cd {{REPO_NAME}}
+git clone https://github.com/mantahq/manta-projects
+cd express-user-management-api
 ```
 
 ### 2. Install Dependencies
