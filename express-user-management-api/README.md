@@ -22,6 +22,7 @@ const manta = new MantaClient({
   sdkKey: "manta_sk_live_xxxx", // Replace with your actual API key
 });
 
+// sample query
 await manta.createRecords({
   table: "users",
   data: [{ email: "real@example.com" }],
