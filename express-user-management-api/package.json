@@ -9,8 +9,9 @@
         "dev": "nodemon src/server.js"
     },
     "dependencies": {
+        "dotenv": "^17.2.4",
         "express": "^5.0.0",
-        "mantahq-sdk": "^1.0.7"
+        "mantahq-sdk": "^1.0.8"
     },
     "devDependencies": {
         "nodemon": "^3.0.0"
