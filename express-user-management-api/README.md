@@ -31,7 +31,7 @@ await manta.createRecords({
 });
 
 ---
-
+```
 ## 📋 Features
 
 | Feature            | Status | Description                    |
@@ -46,11 +46,12 @@ await manta.createRecords({
 | Fallback Mode      | ✅      | Optional in-memory fallback    |
 
 ---
-
+```
+```
 ## 🏗️ Project Structure
 
 ```
-{{REPO_NAME}}/
+/
 ├── .env.example            # Example environment variables
 ├── .gitignore
 ├── package.json
